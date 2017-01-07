@@ -12,7 +12,7 @@
     * [What graphics card are you using?](#what-graphics-card-are-you-using)
     * [Wolf0 are you the famous miner developper ?](#wolf0-are-you-the-famous-miner-developper-)
 
-## General purpose of this document:
+## General purpose of this document
 
 Monero is a new generation cryptocurrency.
 It is highly mined with cpu or gpu.
