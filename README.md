@@ -15,6 +15,7 @@
 
 <!-- vim-markdown-toc -->
 ## General purpose of this document: 
+
 Monero is a new generation cryptocurrency. 
 It is highly mined with cpu or gpu. 
 Pool Mining is the most common way to mine Monero. 
