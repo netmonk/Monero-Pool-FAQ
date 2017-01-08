@@ -2,6 +2,7 @@
 <!-- vim-markdown-toc GFM -->
 * [General purpose of this document](#general-purpose-of-this-document)
 * [Questions and Answers](#questions-and-answers)
+    * [i have different machines mining, should i point them to same wallet? or will that confuse the pool?](#i-have-different-machines-mining-should-i-point-them-to-same-wallet-or-will-that-confuse-the-pool)
     * [I mine since few time, but my balance is still zero](#i-mine-since-few-time-but-my-balance-is-still-zero)
     * [when I will get my monero ?](#when-i-will-get-my-monero-)
     * [Can I get paid on market wallet directly ?](#can-i-get-paid-on-market-wallet-directly-)
@@ -26,7 +27,7 @@ You will find answer to the most common questions asked on this channel, related
 
 ## Questions and Answers
 
-*### i have different machines mining, should i point them to same wallet? or will that confuse the pool?
+### i have different machines mining, should i point them to same wallet? or will that confuse the pool?
 
 The short answer is : use same address on all your miner. 
 The wallet address is just used by pool to identify you and associate the number of share you submitted. 
