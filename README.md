@@ -2,15 +2,15 @@
 <!-- vim-markdown-toc GFM -->
 * [General purpose of this document](#general-purpose-of-this-document)
 * [Questions and Answers](#questions-and-answers)
-    * [I Have Different Machines Mining, Should I Point Them To Same Wallet? Or Will That Confuse The Pool?](#i-have-different-machines-mining-should-i-point-them-to-same-wallet-or-will-that-confuse-the-pool)
-    * [I mine since few time, but my balance is still zero](#i-have-been-mining-for-some-time-now-but-my-balance-is-still-zero)
-    * [When I will get my Monero ?](#when-i-will-get-my-Monero)
-    * [Can I get paid on market wallet directly ?](#can-i-get-paid-on-market-wallet-directly)
+    * [I have different machines mining, should I point them to same wallet? or will that confuse the pool?](#i-have-different-machines-mining-should-i-point-them-to-same-wallet-or-will-that-confuse-the-pool)
+    * [I have been mining for some time now, but my balance is still zero!](#i-have-been-mining-for-some-time-now-but-my-balance-is-still-zero)
+    * [When I will get my Monero?](#when-i-will-get-my-monero)
+    * [Can I get paid on market wallet directly?](#can-i-get-paid-on-market-wallet-directly)
     * [How can I check if the balance is updated?](#how-can-i-check-if-the-balance-is-updated)
-    * [Why do so many Monero pool sites have very similar layout is their an open source git or something?](#why-do-so-many-Monero-pool-sites-have-very-similar-layout-is-their-an-open-source-git-or-something)
-    * [Who can someone help me? My account is showing transfer founds but nothing is showing up in my wallet?](#who-can-someone-help-me-my-account-is-showing-transfer-found-but-nothing-is-showing-up-in-my-wallet)
+    * [Why do so many Monero pool sites have very similar layout is their an open source git or something?](#why-do-so-many-monero-pool-sites-have-very-similar-layout-is-their-an-open-source-git-or-something)
+    * [Who can someone help me? My account is showing transfer found but nothing is showing up in my wallet?](#who-can-someone-help-me-my-account-is-showing-transfer-found-but-nothing-is-showing-up-in-my-wallet)
     * [What graphics card are you using?](#what-graphics-card-are-you-using)
-    * [Wolf0 are you the famous miner developer ?](#wolf0-are-you-the-famous-miner-developer)
+    * [Wolf0 are you the famous miner developer?](#wolf0-are-you-the-famous-miner-developer)
 
 <!-- vim-markdown-toc -->
 
@@ -59,7 +59,7 @@ Refreshing the pool webpage should be enough
 
 ### Why do so many Monero pool sites have very similar layout is their an open source git or something?
 
-Yes most of pools share the same code base : https://github.com/zone117x/node-cryptonote-pool
+Yes most of pools share the same code base : <https://github.com/zone117x/node-cryptonote-pool>
 This was kindly coded by Zone11x. 
 Also some fork with improvement exists, but rarely on the frontend which is what you mostly see and compare.
 
