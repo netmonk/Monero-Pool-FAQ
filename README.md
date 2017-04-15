@@ -11,6 +11,7 @@
     * [Who can someone help me? My account is showing transfer found but nothing is showing up in my wallet?](#who-can-someone-help-me-my-account-is-showing-transfer-found-but-nothing-is-showing-up-in-my-wallet)
     * [What graphics card are you using?](#what-graphics-card-are-you-using)
     * [Wolf0 are you the famous miner developer?](#wolf0-are-you-the-famous-miner-developer)
+    * [Why is my hashrate showing up different?](#why-is-hashrate-different)
 
 <!-- vim-markdown-toc -->
 
@@ -74,3 +75,6 @@ Try to refresh your wallet
 Be careful to verify that the user you are talking with is a registered user. If so, then there is a 99.9% chance that he is the one you are thinking about.
 Scammers often work to impersonate famous people within channels, therefore always check before anything else.
 
+### Why is hashrate different?
+
+Your mining software and the pool may show different numbers for your hashrate. This is because the pool is reporting a hash rate based on a guess - it estimates your hashrate based on the shares you submit. When in doubt, trust your mining software. It is telling you the actual hashrate. Pools can differe in their display of hashrate too. 
